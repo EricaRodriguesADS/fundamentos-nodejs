@@ -6,4 +6,4 @@
 npm install
 
 ### Executar o projeto
-npm run dev
+npm run dev:server
